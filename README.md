@@ -2,4 +2,4 @@
 
 👀 I’m interested in Coding
 
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning Python!
