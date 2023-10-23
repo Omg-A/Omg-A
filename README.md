@@ -1,5 +1,5 @@
-👋 Hi, I’m Jinjii
+👋 Hi, I’m Jinjii!
 
-👀 I’m interested in Coding
+👀 I’m an amateur coder...
 
-🌱 I’m currently learning Python!
+🌱 And I’m currently learning Java!
